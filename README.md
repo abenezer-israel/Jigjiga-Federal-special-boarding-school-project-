@@ -2,12 +2,6 @@
 
 «A modern, responsive school website designed to present the academic environment, boarding experience, student life, and activities of Jigjiga Federal Special Boarding School.»
 
-"Status" (https://img.shields.io/badge/Status-In%20Development-orange)
-"HTML" (https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-"CSS" (https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-"Responsive" (https://img.shields.io/badge/Design-Responsive-success)
-
 ✨ Overview
 
 This project is a modern school website built to provide students, parents, teachers, and visitors with an easy way to explore the school's environment and activities.
@@ -109,7 +103,7 @@ Possible future versions could include:
 
 👨‍💻 Developer
 
-Max Coder
+Abenezer Israel 
 
 Built as a frontend web development project with a focus on creating a realistic, modern school website experience.
 
