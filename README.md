@@ -36,12 +36,17 @@ LocalStorage| Demo news management
 
 jigjiga-school-website/
 │
+
 ├── index.html
+
 ├── admin.html
+
 ├── css/
 │   └── style.css
+
 ├── js/
 │   └── script.js
+
 ├── images/
 │   └── ...
 └── README.md
